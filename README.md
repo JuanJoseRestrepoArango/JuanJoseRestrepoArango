@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I’m a Mechanical Engineer studying Multiplatform Application Development and working as a freelance Software Engineer. Recently, I developed a filament based inventory management app with barcode generation for a client. I’m skilled in Java, Python, PHP, JavaScript, HTML, CSS, and Laravel.
+Hello! I’m a Mechanical Engineer studying Cross-Platform Application Development and working as a freelance Software Engineer. Recently, I developed a filament based inventory management app with barcode generation for a client. I’m skilled in Java, Python, PHP, JavaScript, HTML, CSS, and Laravel.
 
 
 ## 🌐 Socials:
