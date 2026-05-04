@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello! I’m a Mechanical Engineer studying Cross-Platform Application Development and working as a freelance Software Engineer. Recently, I developed a filament based inventory management app with barcode generation for a client. I’m skilled in Java, Python, PHP, JavaScript, HTML, CSS, and Laravel.
+Hi! I'm Juan José Restrepo, a Software Developer with a Mechanical Engineering background, focused on backend development and scalable web applications.
+On my GitHub you'll find projects related to **REST APIs**, authentication and security (**JWT/OAuth2**), backend architecture, database design (**PostgreSQL/MySQL**), and automation tools.
+I enjoy working with **Java (Spring Boot)** and **PHP (Laravel/Symfony)**, applying clean code principles and building maintainable systems with real-world business logic.
 
 
 ## 🌐 Socials:
